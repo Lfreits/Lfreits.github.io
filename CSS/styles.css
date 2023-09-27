@@ -126,9 +126,7 @@ body {
         padding: auto;
         flex-direction: column;
     }
-    #LinkMeusConhecimentos{
-        width: 100vh;
-    }
+    
     
     .Sobre_Mim{
         display: flex;
