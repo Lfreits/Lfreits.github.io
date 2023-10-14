@@ -182,7 +182,7 @@ body {
         background-color: var(--primary-color);
         border-radius: 15px;
         display: flex;
-        width: 480px;
+        width: 380px;
         margin: 10vh auto;
         padding: auto;
         flex-direction: column;
@@ -195,7 +195,7 @@ body {
     .container > div {
     
         display: flex;
-        width: 450px;
+        width: 358px;
         height: 300px;
         background-color: var(--secondary-color);
         border-radius: 15px;
