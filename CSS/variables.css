@@ -3,8 +3,10 @@
     --bgcolor: #272727;
     --primary-color: rgba(0,0,0,0.199);
     --secondary-color: rgb(18, 18, 18);
-    --optional-color: rgb(12, 202, 75);;
-    --text-color: rgb(12, 202, 75);;
+    --optional-color: rgb(12, 202, 75);
+    --text-color: rgb(12, 202, 75);
     --title-color: rgb(12, 202, 75);
     --subtitle-color: snow;
+    --rodape-color: rgb(12, 202, 75);
+    --text-box-color: rgb(12, 202, 75);
 }
