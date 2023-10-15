@@ -37,4 +37,3 @@ export function alternaTema(tema){
     }
     return tema
 }
-

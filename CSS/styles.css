@@ -110,21 +110,16 @@ h2 {
     margin: 10vh auto;
     padding: auto;
     flex-direction: row;
-    
-    
-    
-    
-    
 }
+
 .container > div {
-    
     display: flex;
     width: 300px;
     height: 400px;
     background-color: var(--secondary-color);
     border-radius: 15px;
     align-items: center;
-    padding: 10px;
+    padding: 20px;
     margin: 2% 2%;
     flex-direction: column;
 }
@@ -151,6 +146,37 @@ img#foto {
     height: 300px;
     width: 300px;
     border-radius: 50px;
+}
+
+.containerProjeto {
+    background-color: var(--primary-color);
+    border-radius: 25px;
+    display: flex;
+    width: 320px;
+    margin: 10vh auto;
+    padding: auto;
+    flex-direction: row;
+    gap: 20px;
+    height: 320px;
+    align-items: center;
+    justify-content: center;
+}
+
+.projeto {
+    display: flex;
+    background-color: var(--secondary-color);
+    align-items: center;
+    flex-direction: column;
+    height: 300px;
+    width: 300px;
+    border-radius: 25px;
+    padding: 20px;
+    border: 0px;
+}
+.projeto:hover {
+    cursor: pointer;
+    height: 320px;
+    width: 320px;
 }
 
 footer {
